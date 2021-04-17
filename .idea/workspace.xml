@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c1f046c-ae14-4364-9683-0ea2542a19e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="ade19c88-af61-4a54-ab5b-ed01d0e6f221" />
+  <component name="ProjectId" id="1qWodQnsPz46ro0T8efpAXf12LE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="tp02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP2-Ma223" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tp02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tp02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c1f046c-ae14-4364-9683-0ea2542a19e7" name="Default Changelist" comment="" />
+      <created>1617204793758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617204793758</updated>
+      <workItem from="1617204794875" duration="484000" />
+      <workItem from="1617205295329" duration="4384000" />
+      <workItem from="1617209785168" duration="18000" />
+      <workItem from="1617567793704" duration="989000" />
+      <workItem from="1617571830044" duration="604000" />
+      <workItem from="1617574770632" duration="2000" />
+      <workItem from="1617625520157" duration="955000" />
+      <workItem from="1617632644473" duration="900000" />
+      <workItem from="1618178492112" duration="1579000" />
+      <workItem from="1617913942524" duration="7000" />
+      <workItem from="1617975428919" duration="8519000" />
+      <workItem from="1617986080301" duration="870000" />
+      <workItem from="1618118208660" duration="8000" />
+      <workItem from="1618123017457" duration="18000" />
+      <workItem from="1618123908299" duration="5000" />
+      <workItem from="1618653368547" duration="33000" />
+      <workItem from="1618653414217" duration="10000" />
+      <workItem from="1618653994566" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617205435999">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1617205435999" />
+    <state width="1231" height="202" key="GridCell.Tab.0.bottom" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.0.center" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.0.left" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.0.right" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.1.bottom" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.1.center" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.1.left" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+    <state width="1231" height="202" key="GridCell.Tab.1.right" timestamp="1617984716633">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1231" height="202" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1617984716633" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TP2_Ma223$tp02.coverage" NAME="tp02 Coverage Results" MODIFIED="1617983397386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
